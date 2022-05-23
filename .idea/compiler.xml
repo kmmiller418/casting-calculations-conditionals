@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="NumberComparison" />
+        <module name="SameOrNah" />
+        <module name="BoilingWater" />
+        <module name="Calculations" />
+        <module name="TestScores" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="BoilingWater" target="18" />
+      <module name="Calculations" target="18" />
+      <module name="NumberComparison" target="18" />
+      <module name="SameOrNah" target="18" />
+      <module name="TestScores" target="18" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

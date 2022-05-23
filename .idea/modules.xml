@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Conditionals/BoilingWater/BoilingWater.iml" filepath="$PROJECT_DIR$/Conditionals/BoilingWater/BoilingWater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculations/Calculations.iml" filepath="$PROJECT_DIR$/Calculations/Calculations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Casting/Casting.iml" filepath="$PROJECT_DIR$/Casting/Casting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditionals/NumberComparison/NumberComparison.iml" filepath="$PROJECT_DIR$/Conditionals/NumberComparison/NumberComparison.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditionals/SameOrNah/SameOrNah.iml" filepath="$PROJECT_DIR$/Conditionals/SameOrNah/SameOrNah.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditionals/TestScores/TestScores.iml" filepath="$PROJECT_DIR$/Conditionals/TestScores/TestScores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/casting-calculations-conditionals.iml" filepath="$PROJECT_DIR$/.idea/casting-calculations-conditionals.iml" />
+    </modules>
+  </component>
+</project>
